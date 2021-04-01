@@ -8,7 +8,6 @@ export default function Home() {
         <title>What's up 2.0</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <Sidebar />
     </div>
   );
